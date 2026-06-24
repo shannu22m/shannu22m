@@ -1,187 +1,136 @@
+<div align="center">
+
+<img src="assets/profile.png" width="180" style="border-radius:50%;" />
+
 # Hi 👋, I'm Shanmukha Sai Srinivas
 
-### AI & ML Engineer | Full Stack Developer | Generative AI Enthusiast
+### AI & ML Engineer • Full Stack Developer • Generative AI Enthusiast
 
-<p align="center">
+<p>
 
+<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Contest%20Rating-1901-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-500%2B%20Problems-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JPMorgan-Code%20For%20Good-purple?style=for-the-badge"/>
+
+</p>
+
+<p>
 <a href="https://www.linkedin.com/in/shanmukha2322">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shanmukhamandapalli22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/shannu22m">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://leetcode.com/u/shanmukha_mandapalli/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
-
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3000&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;JPMorgan+Code+for+Good+Participant;IIT+Madras+BS+Data+Science+Student;500%2B+DSA+Problems+Solved" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;IIT+Madras+BS+Data+Science+Student;LeetCode+Knight+1901;Building+AI-Powered+Applications" />
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 B.Tech CSE (AI & ML) @ CVR College of Engineering
+🎓 Final Year B.Tech CSE (AI & ML) @ CVR College of Engineering
 
 🎓 BS in Data Science & Applications @ IIT Madras
 
-🤖 Passionate About:
+💡 Passionate about:
 
 * Artificial Intelligence
 * Machine Learning
 * Deep Learning
 * Generative AI
-* LLM Applications
-* NLP
+* Large Language Models (LLMs)
 * Full Stack Development
+* Data Science
 
-🏆 JPMorgan Code for Good Hackathon Participant
+🏆 JPMorgan Chase Code for Good 2025 Participant
 
 🔥 Solved 500+ DSA Problems
 
-💡 Building AI-Powered Applications, Intelligent Systems, and Scalable Web Platforms
+🌱 Currently exploring Advanced AI Agents, RAG Systems, and Scalable AI Applications
 
 ---
 
-# 🚀 Languages
+# 💻 Tech Stack
 
-<p align="left">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql" />
+</p>
 
+### Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,postman" />
 </p>
 
 ---
 
-# 🌐 Full Stack Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=flask" />
-
-</p>
-
----
-
-# 🧠 AI / ML
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-FF5722?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🤖 Generative AI
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq_API-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_Applications-27AE60?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🛠 Tools & Platforms
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=postman" />
-
-</p>
-
----
 # 🏆 Competitive Programming
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/u/shanmukha_mandapalli/">
-<img src="https://leetcard.jacoblin.cool/shanmukha_mandapalli?theme=dark&font=Nunito&ext=contest"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/shanmukha_mandapalli?theme=dark&font=Nunito&ext=contest" />
 
-</p>
+</div>
 
-### 🔥 LeetCode Highlights
+### Highlights
 
-* 🟠 **500+ Problems Solved**
-* 🏅 **LeetCode Knight Badge Holder**
-* 📈 **Contest Rating: 1852**
-* 🌍 **Top 5% Globally**
-* ⚡ Consistent Contest Participant
+* 🏅 LeetCode Knight
+* 📈 Contest Rating: 1901
+* 🔥 500+ Problems Solved
+* 🌍 Top Competitive Programmer
+* ⚡ Strong in DP, Graphs, Trees, Binary Search, Greedy & Backtracking
 
-### 💡 Strong Problem Solving Skills In
-
-* Dynamic Programming
-* Trees & Binary Trees
-* Graph Algorithms
-* Backtracking
-* Binary Search
-* Greedy Algorithms
-* Sliding Window
-* Recursion
-* Hashing
-* Heap & Priority Queue
-
-### 📊 DSA Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/u/shanmukha_mandapalli/">
-<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
+---
 
 # 🚀 Featured Projects
 
 ## 🎓 CampusHire — AI Powered Placement Portal
 
-* Flask + SQLite Backend
-* FastAPI Integration
-* Role Based Dashboards
-* Groq LLM Chatbot
-* Conversational Memory
+* Flask + FastAPI Architecture
+* Role-Based Dashboards
+* Groq LLM Integration
+* Conversational AI Assistant
 * Placement Analytics
 
 ---
@@ -189,16 +138,16 @@
 ## 🛒 Amazon Product Review Analyzer
 
 * NLP Pipeline
-* TF-IDF Feature Engineering
 * Sentiment Analysis
-* Scikit-Learn Models
+* TF-IDF Vectorization
+* Machine Learning Classification
 * 90%+ Accuracy
 
 ---
 
 ## 🏥 MediSync — Healthcare Platform
 
-* MERN Stack Application
+* MERN Stack Development
 * Doctor Appointment Booking
 * JWT Authentication
 * Razorpay Integration
@@ -206,48 +155,64 @@
 
 ---
 
-# 🏆 Achievements
+# 📊 GitHub Analytics
 
-✔ 500+ DSA Problems Solved
+<div align="center">
 
-✔ LeetCode Knight Badge Holder
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shannu22m&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✔ Smart Interviews Top 1%
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu22m&layout=compact&theme=tokyonight&hide_border=true"/>
 
-✔ JPMorgan Code for Good Participant
+</div>
 
-✔ IIT Madras BS Data Science Student
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu22m&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu22m&theme=tokyo-night" />
+
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 🏅 Achievements
+
+* 🏆 LeetCode Knight
+* 🚀 JPMorgan Code for Good 2025
+* 🎓 IIT Madras BS Data Science Student
+* 💻 500+ DSA Problems Solved
+* 📚 Smart Interviews Top Performer
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shannu22m&show_icons=true&theme=tokyonight"/>
+<a href="mailto:shanmukhamandapalli22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu22m&layout=compact&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/shanmukha2322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/shannu22m">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/shanmukha_mandapalli/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu22m&theme=tokyonight"/>
+⭐ Open to Software Engineering, AI/ML, Data Science, Full Stack Development, and Generative AI opportunities.
 
-</p>
-
----
-
-# 📫 Connect With Me
-
-📧 Email: [shanmukhamandapalli22@gmail.com](mailto:shanmukhamandapalli22@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/shanmukha2322
-
-💻 GitHub: github.com/shannu22m
-
-🏆 LeetCode: leetcode.com/u/shanmukha_mandapalli
-
----
-
-⭐ Open to Software Engineering, AI/ML, Data Science, Full Stack Development, and Generative AI Opportunities.
+</div>
