@@ -131,6 +131,47 @@
 </p>
 
 ---
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/shanmukha_mandapalli/">
+<img src="https://leetcard.jacoblin.cool/shanmukha_mandapalli?theme=dark&font=Nunito&ext=contest"/>
+</a>
+
+</p>
+
+### 🔥 LeetCode Highlights
+
+* 🟠 **500+ Problems Solved**
+* 🏅 **LeetCode Knight Badge Holder**
+* 📈 **Contest Rating: 1852**
+* 🌍 **Top 5% Globally**
+* ⚡ Consistent Contest Participant
+
+### 💡 Strong Problem Solving Skills In
+
+* Dynamic Programming
+* Trees & Binary Trees
+* Graph Algorithms
+* Backtracking
+* Binary Search
+* Greedy Algorithms
+* Sliding Window
+* Recursion
+* Hashing
+* Heap & Priority Queue
+
+### 📊 DSA Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/shanmukha_mandapalli/">
+<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
 
 # 🚀 Featured Projects
 
